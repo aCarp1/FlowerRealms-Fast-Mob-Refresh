@@ -12,3 +12,6 @@ right click "javaw"
 go to "miscellaneous"
 
 and select the .dll
+
+
+**If you wish to unload the dll press the "end" keybind**
