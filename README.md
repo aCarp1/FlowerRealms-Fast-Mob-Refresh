@@ -13,5 +13,7 @@ go to "miscellaneous"
 
 and select the .dll
 
+after that you may press "R" once to use the macro
+
 
 **If you wish to unload the dll press the "end" keybind**
